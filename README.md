@@ -1,0 +1,447 @@
+<a href="http://gitprint.com/alexsosn/CV/blob/master/README.md"> Download as PDF </a>
+
+# Oleksander Sosnovshchenko
+
+**I'm programmer && biologist**
+
+## Contact Information
+- [Dnipropetrovsk, Ukraine](https://www.google.com/maps?q=dnipropetrovsk) / [Wrocław, Poland](https://www.google.com/maps?q=wroclaw)
+- [linkedin](https://linkedin.com/in/asosnovschenko)
+- [github](https://github.com/alexsosn)
+- [twitter: @StecOverflow](https://twitter.com/StecOverflow)
+
+## Experience
+### [iOS] Developer, [Gigaset Communications](http://www.gigaset.com/de_DE/home.html) (Germany), R&D office at Wrocław, Poland
+* April 2015 – Present
+* Front-end mobile applications for Gigaset hardware (smart house, [DECT] phones). Test automation, bluetooth.
+Integration with custom proprietary Bluetooth LE services.
+* **Core technologies:** [Objective-C], [Python], [JavaScript], [Scrum], [Agile], [Canban], [TDD].
+
+### [iOS] Developer, [Ciklum Interactive Solutions](http://www.ciklum.com/), [Dnipropetrovsk], [Ukraine]
+February 2014 – April 2015 
+Healthcare application for [Babylon Partners](www.babylonhealth.com) (London)
+* [Machine learning] system prototyping ([Python]/[R]/[OpenCV]).
+* Custom algorithm for heart rate detection via camera.
+* Development of the system for user motion recognition. Our algorithm accuracy is over 80% with possibility to add custom motion types. iPhone's default accuracy is ~ 55%.
+* Data visualization with [R].
+* [REST] [API] client and wearable devices integration.
+Research.
+* Technical documentation development.
+* Distributed international team of developers and medical specialists.
+* Submitting to app store.
+* **Core technologies:**  [Objective-C], [Python], [Java], [TDD], [Appium].
+
+### Software Developer, [Yalantis](yalantis.com), [Dnipropetrovsk], 2012-2014 
+* Mobile application development. I took part in development of 10 apps, 5 of them is for medical or biotech companies. Other includes mobile media platform, social media, games and productivity apps.
+* **Core technologies:** [Objective-C], [OS X], [Git], [SVN].
+
+### Teacher, Secondary school, [Dnipropetrovsk], 2010-2012
+* [Biology] and [chemistry] teacher in 5 – 10 grades.
+* **Skills gained:** [pedagogy], [psychology], [public speaking], [chem. demonstrations].
+
+### Engineer, [Dnipropetrovsk National University], Research Institute of [Biology], [Dnipropetrovsk], April 2010 – June 2010 
+* [Data analysis]. Skills gained: [MS Excel], [MS Access].
+* Subjects: water quality monitoring, [hydrochemistry], [water microbiology].
+
+### Junior Laboratory Assistant, [Dnipropetrovsk National University], Department of Biology, Aquarium, [Dnipropetrovsk], October 2008 – January 2009 
+* Caring for aquatic organisms.
+* Skills gained: [positive mood], [self motivation], [proactivity], [care for animals], [laboratory analysis] skills.
+
+## Education
+### Master of Science, [Biology], [Dnipropetrovsk National University], 2009-2010 
+* Thesis title “Seasonal dynamics of some hydrochemical characteristics of Zaporozhye water reservoir”.
+* With distinction. [GPA]: [A].
+
+### Bachelor of Science, [Biology], [Dnipropetrovsk National University], 2005-2009 
+With distinction. [GPA]: [A].
+
+## Languages
+|Language|Level|
+|--------------|-----------|
+|English |Professional knowledge|
+|Ukrainian|Native speaker|
+|Russian|Native speaker|
+|Polish, German, Latin, Ancient Greek|I studied these languages at some point of my life.|
+
+## Technical Skills
+### Programming Languages
+* [Objective-C]
+* [Swift]
+* [Python]
+* [R]
+* [Java]
+* [shell] scripting
+* [Matlab], [Octave], [Haskell], [C++] \(basics\)
+
+### Paradigms: 
+* [OOP]
+* [Functional programming]
+* [MapReduce]
+* [Design Patterns]
+* [Relational Algebra]
+* [Big O notation]
+* [REST]
+
+### Metodologies
+* [Agile]
+* [Scrum]
+* [TDD]/[BDD]
+* [Acceptance testing]
+
+### Operating Systems
+* [OS X]
+* [Linux]
+* [Windows]
+
+### Other Tools
+* [LLVM] stack
+* [Git]
+* [SVN]
+* [Jira], [Confluence]
+* [MS Excel]
+* [MS Access]
+* [SQL]
+* [MongoDB]
+
+### Interesting Staff
+* [Machine Learning]
+* [Data Science]
+* Core competencies: [R], [Python], [MongoDB], [Apache Spark], [MapReduce], [time series], [statistics].
+* [NLP]: [Word2Vec], [sentiment analysis], [NLTK], [tm package]\(text mining\), [bag of words], [stemming], [corpuses], [tokenizers]... 
+* [Data Mining]: 
+	* [Classification]
+		* decision trees, Random Forest, SVM, Naive Bayes, e1071
+	* [Regression]
+		* linear regression, logistic regression, 
+	* [Clusterization]
+		* kNN, hierarchical clustering, 
+	* [Quality metrics]
+		* AUC (caTools), ROCR (ROC graphs, sensitivity/specificity curves)...
+	* [Linear] and [integer optimization] \([MS Excel]/[Open office]\) 
+* [Digital Signal Processing]: [Face detection in video], [Motion types recognition], 
+* [Data Visualization]: [cloud of words], [heatmaps], [mosaic plots], [ggplot2], [RcolorBrewer], [maps], [igraph]
+* Data sources: [twitter API], [xml], [sql], [html], [csv], [JSON], [BSON] \([MongoDB]\), [spatial], [bioinformatics formats], ...
+
+### Bioinformatic Tools
+* [PAUP]
+* [PHYLIP]
+* [MrBayes]
+* [PyMOL]
+* [UGENE]
+* [MEGA]5/6
+* [Cytoscape]
+* [Bioconductors]
+* [BLAST]
+* [PSI-BLAST]
+* [HMMER]
+* [ClustalW]
+* [MUSCLE]
+* [Bowtie]
+* [Prosite]
+* [Ensembl genome browser]
+* [KEGG Pathway]
+* [MEME]
+* [MG-RAST]
+* [FASTA]
+* [FASTAQ]
+* [SAM]
+* [BAM]
+* [PDB]
+* [NEXUS]
+
+## Projects
+### [Bluetooth] device project
+* **Responsibility**
+* Release to [HockeyApp]
+* **Technologies:** [Bluetooth LE], [CoreBluetooth], [GATT], [Kanban], [HockeyApp]
+
+### [Smart House] project
+* Technologies: [KIF], [UIAutomation], [Appium], [Jira], [Confluence], [Scrum]
+
+### Mobile health system.
+“This is a virtual health service in your pocket. With an easy appointment and records system, leading clinicians and state of the art personal health monitoring capabilities, babylon is simply your own virtual health service in your pocket. It is the first organization of its kind to be registered with Care Quality Commission (CQC) and have designated body status from NHS England.”
+* Responsibility:
+* Core [iOS] application development.
+
+* Technologies:  [CorePlot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTests], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [openCV], [machine learning].
+
+* https://itunes.apple.com/gb/app/babylon-health/id858558101
+* http://www.babylonhealth.com/
+
+
+### Football Couch Simulator Mobile Game
+* Technologies: [UIKit], [Foundation], [REST].
+* Role: 
+* Reimplementation of Titanium application in native [iOS] SDK.
+* Integration of the client application with [REST] API.
+* UI layout implementation.
+* Data persistence implementation.
+
+### Mobile eStore Engine
+* Customizable engine for fast creation of internet store applications.
+* Technologies: [UIKit], [Foundation], [REST], [MediaPlayer Framework], [StoreKit], [Flurry].
+* Role:
+* UI implementation.
+* [Facebook], [Twitter], [Pinterest], [Google+] APIs integration.
+* [In-app purchases].
+* [Push-notifications].
+* Audio and video player with custom interface implementation.
+* Contribution to [REST] API design.
+
+### Mobile Resume App
+* Create your app on the go
+* Role:
+* New UI design and iPad version implementing.
+* Dropbox integration.
+* iCloud synchronization integration.
+* LinkedIn API integration.
+* Technologies: [iCloud], [Dropbox SDK], [LinkedIn API], [CoreData], [UIKit].
+
+### Taxi Booking Application
+* Role:
+* Optical recognition of credit card numbers integration
+* UI implementation.
+* Technologies: [card.io] SDK, [UIKit].
+
+### Diabetes Management Application
+Role:
+Custom controls and calculators for diabetes management implementation.
+Technologies: [RestKit], [UIKit]
+
+### Medical Devices Promo App
+* internal iPad app for medical staff:
+* Role:
+* Implementation of new database structure and CMS-app interactions.
+* App localization.
+* Interacting with third party notification providers.
+* [Testflight], [Google Analitics] integration.
+
+* Technologies: [Google Analitics], [UrbanAirsip], [TestFlight] SDK, [Perl] and [Python] scripting, [SQLite].
+
+### Laser Eye Surgery Promo App
+* internal iPad app for medical staff training and promotion:
+* Role: 
+* Laser eye surgery simulations implementation.
+* Custom UI implementation.
+* Technologies: [UIKit].
+
+### Facilities 
+* internal app for biotech corporation:
+* Role: 
+* Offline google-like maps implementation.
+* Video player integration.
+* Technologies: [UIKit].
+
+## Online courses finished with statements of accomplishment 
+
+### Bioinformatics:
+* Epigenetic Control of Gene Expression by University of Melbourne
+* Bioinformatics: Life Sciences on Your Computer by Johns Hopkins University
+* Bioinformatics: Introduction and Methods by Peking University
+* Bioinformatic Methods I by University of Toronto
+* Bioinformatic Methods II by University of Toronto
+* Computational Molecular Evolution by Technical University of Denmark
+* Programmed cell death by Ludwig-Maximilians-Universität München (LMU)
+
+### Data science: 
+* Introduction to Data Science by University of Washington 
+* Computing for Data Analysis (R programming) by Johns Hopkins University 
+* Data Analysis and Statistical Inference by Duke University 
+* [Analitics Edge](https://verify.edx.org/cert/c9bb4465a1bf4a1d8c19299e6f6ed37b) by MIT
+* CS190.1x [Scalable Machine Learning](https://s3.amazonaws.com/verify.edx.org/downloads/f87dec28a53941a9b7cab4fdf45b3dc8/Certificate.pdf) by BerkeleyX
+* CS100.1x: [Introduction to Big Data with Apache Spark](https://s3.amazonaws.com/verify.edx.org/downloads/f6d4cceb3add45f2a404195741fc7708/Certificate.pdf) by BerkeleyX
+
+### Software Development: 
+* [MongoDB for Developers](http://education.mongodb.com/downloads/certificates/6a4b34178a9a45698ef92e5dbb91bd69/Certificate.pdf) by MongoDB Inc. 
+* Programming in Objective-C by National Open University Intuit 
+* FP101x: [Introduction to Functional Programming](https://s3.amazonaws.com/verify.edx.org/downloads/f4b3dd81b0e046e89ac3d49f1461f10d/Certificate.pdf) by Delft University of Technology through edX 
+
+### Language: 
+* [Writing in the Sciences](https://verify.class.stanford.edu/SOA/cd8e146a9365494cab3c09e669c88695/) by Stanford Online 
+
+[A]: https://en.wikipedia.org/wiki/Education_in_Ukraine#Marks
+[Acceptance testing]: https://en.wikipedia.org/wiki/Acceptance_testing#Acceptance_testing_in_extreme_programming
+[AFNetworking]: https://github.com/AFNetworking/AFNetworking
+[Agile]: https://en.wikipedia.org/wiki/Agile
+[Apache Spark]: https://en.wikipedia.org/wiki/Apache_Spark
+[API]: https://en.wikipedia.org/wiki/API
+[APNS]: https://en.wikipedia.org/wiki/APNS
+[Appium]: http://appium.io/
+<!---
+Checked
+-->
+[Autolayouts]: https://en.wikipedia.org/wiki/Autolayouts
+[bag of words]: https://en.wikipedia.org/wiki/bag_of_words
+[BAM]: https://en.wikipedia.org/wiki/BAM
+[BDD]: https://en.wikipedia.org/wiki/BDD
+[Big O notation]: https://en.wikipedia.org/wiki/Big_O_notation
+[Bioconductors]: https://en.wikipedia.org/wiki/Bioconductors
+[bioinformatics formats]: https://en.wikipedia.org/wiki/bioinformatics_formats
+[Biology]: https://en.wikipedia.org/wiki/Biology
+[BLAST]: https://en.wikipedia.org/wiki/BLAST
+[Bluetooth LE]: https://en.wikipedia.org/wiki/Bluetooth_LE
+[Bluetooth]: https://en.wikipedia.org/wiki/Bluetooth
+[Bowtie]: https://en.wikipedia.org/wiki/Bowtie
+[BSON]: https://en.wikipedia.org/wiki/BSON
+[C++]: https://en.wikipedia.org/wiki/C++
+[Canban]: https://en.wikipedia.org/wiki/Canban
+[card.io]: https://en.wikipedia.org/wiki/card.io
+[care for animals]: https://en.wikipedia.org/wiki/care_for_animals
+[chem. demonstrations]: https://en.wikipedia.org/wiki/chem._demonstrations
+[chemistry]: https://en.wikipedia.org/wiki/chemistry
+[Classification]: https://en.wikipedia.org/wiki/Classification
+[cloud of words]: https://en.wikipedia.org/wiki/cloud_of_words
+[ClustalW]: https://en.wikipedia.org/wiki/ClustalW
+[Clusterization]: https://en.wikipedia.org/wiki/Clusterization
+[CocoaPods]: https://en.wikipedia.org/wiki/CocoaPods
+[Confluence]: https://en.wikipedia.org/wiki/Confluence
+[CoreBluetooth]: https://en.wikipedia.org/wiki/CoreBluetooth
+[CoreData]: https://en.wikipedia.org/wiki/CoreData
+[CoreGraphics]: https://en.wikipedia.org/wiki/CoreGraphics
+[CoreLocation]: https://en.wikipedia.org/wiki/CoreLocation
+[CoreMotion]: https://en.wikipedia.org/wiki/CoreMotion
+[CorePlot]: https://en.wikipedia.org/wiki/CorePlot
+[corpuses]: https://en.wikipedia.org/wiki/corpuses
+[Crashalitics]: https://en.wikipedia.org/wiki/Crashalitics
+[csv]: https://en.wikipedia.org/wiki/csv
+[Cytoscape]: https://en.wikipedia.org/wiki/Cytoscape
+[Data analysis]: https://en.wikipedia.org/wiki/Data_analysis
+[Data Mining]: https://en.wikipedia.org/wiki/Data_Mining
+[Data Science]: https://en.wikipedia.org/wiki/Data_Science
+[Data Visualization]: https://en.wikipedia.org/wiki/Data_Visualization
+[DECT]: https://en.wikipedia.org/wiki/DECT
+[Design Patterns]: https://en.wikipedia.org/wiki/Design_Patterns
+[Digital Signal Processing]: https://en.wikipedia.org/wiki/Digital_Signal_Processing
+[Dnipropetrovsk National University]: https://en.wikipedia.org/wiki/Dnipropetrovsk_National_University
+[Dnipropetrovsk]: https://en.wikipedia.org/wiki/Dnipropetrovsk
+[Dropbox SDK]: https://en.wikipedia.org/wiki/Dropbox_SDK
+[DSP]: https://en.wikipedia.org/wiki/DSP
+[Ensembl genome browser]: https://en.wikipedia.org/wiki/Ensembl_genome_browser
+[Face detection in video]: https://en.wikipedia.org/wiki/Face_detection_in_video
+[Facebook]: https://en.wikipedia.org/wiki/Facebook
+[FASTA]: https://en.wikipedia.org/wiki/FASTA
+[FASTAQ]: https://en.wikipedia.org/wiki/FASTAQ
+[Flurry]: https://en.wikipedia.org/wiki/Flurry
+[Foundation]: https://en.wikipedia.org/wiki/Foundation
+[Functional programming]: https://en.wikipedia.org/wiki/Functional_programming
+[GATT]: https://en.wikipedia.org/wiki/GATT
+[ggplot2]: https://en.wikipedia.org/wiki/ggplot2
+[Git]: https://en.wikipedia.org/wiki/Git
+[GitHub]: https://en.wikipedia.org/wiki/GitHub
+[Google Analitics]: https://en.wikipedia.org/wiki/Google_Analitics
+[Google+]: https://en.wikipedia.org/wiki/Google+
+[GPA]: https://en.wikipedia.org/wiki/GPA
+[Haskell]: https://en.wikipedia.org/wiki/Haskell
+[HealthKit]: https://en.wikipedia.org/wiki/HealthKit
+[heatmaps]: https://en.wikipedia.org/wiki/heatmaps
+[HMMER]: https://en.wikipedia.org/wiki/HMMER
+[HockeyApp]: https://en.wikipedia.org/wiki/HockeyApp
+[html]: https://en.wikipedia.org/wiki/html
+[HTTPS]: https://en.wikipedia.org/wiki/HTTPS
+[hydrochemistry]: https://en.wikipedia.org/wiki/hydrochemistry
+[iCloud]: https://en.wikipedia.org/wiki/iCloud
+[igraph]: https://en.wikipedia.org/wiki/igraph
+[In-app purchases]: https://en.wikipedia.org/wiki/In-app_purchases
+[integer optimization]: https://en.wikipedia.org/wiki/integer_optimization
+[iOS]: https://en.wikipedia.org/wiki/iOS
+[Java]: https://en.wikipedia.org/wiki/Java
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[Jenkins]: https://en.wikipedia.org/wiki/Jenkins
+[Jira]: https://en.wikipedia.org/wiki/Jira
+[JSON]: https://en.wikipedia.org/wiki/JSON
+[Kanban]: https://en.wikipedia.org/wiki/Kanban
+[KEGG Pathway]: https://en.wikipedia.org/wiki/KEGG_Pathway
+[KIF]: https://en.wikipedia.org/wiki/KIF
+[Kiwi]: https://en.wikipedia.org/wiki/Kiwi
+[laboratory analysis]: https://en.wikipedia.org/wiki/laboratory_analysis
+[Linear]: https://en.wikipedia.org/wiki/Linear
+[LinkedIn API]: https://en.wikipedia.org/wiki/LinkedIn_API
+[Linux]: https://en.wikipedia.org/wiki/Linux
+[LLVM]: https://en.wikipedia.org/wiki/LLVM
+[Machine learning]: https://en.wikipedia.org/wiki/Machine_learning
+[Machine Learning]: https://en.wikipedia.org/wiki/Machine_Learning
+[machine learning]: https://en.wikipedia.org/wiki/machine_learning
+[MapReduce]: https://en.wikipedia.org/wiki/MapReduce
+[maps]: https://en.wikipedia.org/wiki/maps
+[Matlab]: https://en.wikipedia.org/wiki/Matlab
+[MediaPlayer Framework]: https://en.wikipedia.org/wiki/MediaPlayer_Framework
+[MEGA]: http://megasoftware.net/
+[MEME]: https://en.wikipedia.org/wiki/MEME
+[MG-RAST]: https://en.wikipedia.org/wiki/MG-RAST
+[MongoDB]: https://en.wikipedia.org/wiki/MongoDB
+[mosaic plots]: https://en.wikipedia.org/wiki/mosaic_plots
+[Motion types recognition]: https://en.wikipedia.org/wiki/Motion_types_recognition
+[MrBayes]: https://en.wikipedia.org/wiki/MrBayes
+[MS Access]: https://en.wikipedia.org/wiki/MS_Access
+[MS Excel]: https://en.wikipedia.org/wiki/MS_Excel
+[MUSCLE]: https://en.wikipedia.org/wiki/MUSCLE
+[NEXUS]: https://en.wikipedia.org/wiki/NEXUS
+[NLP]: https://en.wikipedia.org/wiki/NLP
+[NLTK]: https://en.wikipedia.org/wiki/NLTK
+[Objective-C]: https://en.wikipedia.org/wiki/Objective-C
+[Octave]: https://en.wikipedia.org/wiki/Octave
+[OOP]: https://en.wikipedia.org/wiki/OOP
+[Open office]: https://en.wikipedia.org/wiki/Open_office
+[OpenCV]: https://en.wikipedia.org/wiki/OpenCV
+[openCV]: https://en.wikipedia.org/wiki/openCV
+[OS X]: https://en.wikipedia.org/wiki/OS_X
+[PAUP]: https://en.wikipedia.org/wiki/PAUP
+[PDB]: https://en.wikipedia.org/wiki/PDB
+[pedagogy]: https://en.wikipedia.org/wiki/pedagogy
+[Perl]: https://en.wikipedia.org/wiki/Perl
+[PHYLIP]: https://en.wikipedia.org/wiki/PHYLIP
+[Pinterest]: https://en.wikipedia.org/wiki/Pinterest
+[positive mood]: https://en.wikipedia.org/wiki/positive_mood
+[proactivity]: https://en.wikipedia.org/wiki/proactivity
+[Prosite]: https://en.wikipedia.org/wiki/Prosite
+[PSI-BLAST]: https://en.wikipedia.org/wiki/PSI-BLAST
+[psychology]: https://en.wikipedia.org/wiki/psychology
+[public speaking]: https://en.wikipedia.org/wiki/public_speaking
+[Push-notifications]: https://en.wikipedia.org/wiki/Push-notifications
+[PyMOL]: https://en.wikipedia.org/wiki/PyMOL
+[Python]: https://en.wikipedia.org/wiki/Python
+[Quality metrics]: https://en.wikipedia.org/wiki/Quality_metrics
+[R]: https://en.wikipedia.org/wiki/R_%28programming_language%29
+[RcolorBrewer]: https://en.wikipedia.org/wiki/RcolorBrewer
+[Regression]: https://en.wikipedia.org/wiki/Regression
+[Relational Algebra]: https://en.wikipedia.org/wiki/Relational_Algebra
+[REST]: https://en.wikipedia.org/wiki/REST
+[RestKit]: https://en.wikipedia.org/wiki/RestKit
+[SAM]: https://en.wikipedia.org/wiki/SAM
+[Scrum]: https://en.wikipedia.org/wiki/Scrum
+[self motivation]: https://en.wikipedia.org/wiki/self_motivation
+[sentiment analysis]: https://en.wikipedia.org/wiki/sentiment_analysis
+[shell]: https://en.wikipedia.org/wiki/shell
+[Smart House]: https://en.wikipedia.org/wiki/Smart_House
+[spatial]: https://en.wikipedia.org/wiki/spatial
+[SQL]: https://en.wikipedia.org/wiki/SQL
+[sql]: https://en.wikipedia.org/wiki/sql
+[SQLite]: https://en.wikipedia.org/wiki/SQLite
+[statistics]: https://en.wikipedia.org/wiki/statistics
+[stemming]: https://en.wikipedia.org/wiki/stemming
+[StoreKit]: https://en.wikipedia.org/wiki/StoreKit
+[SVN]: https://en.wikipedia.org/wiki/SVN
+[Swift]: https://en.wikipedia.org/wiki/Swift
+[TDD]: https://en.wikipedia.org/wiki/TDD
+[TestFlight]: https://en.wikipedia.org/wiki/TestFlight
+[Testflight]: https://en.wikipedia.org/wiki/Testflight
+[time series]: https://en.wikipedia.org/wiki/time_series
+[tm package]: https://en.wikipedia.org/wiki/tm_package
+[tokenizers]: https://en.wikipedia.org/wiki/tokenizers
+[twitter API]: https://en.wikipedia.org/wiki/twitter_API
+[Twitter]: https://en.wikipedia.org/wiki/Twitter
+[UGENE]: https://en.wikipedia.org/wiki/UGENE
+[UIAutomation]: https://en.wikipedia.org/wiki/UIAutomation
+[UIKit]: https://en.wikipedia.org/wiki/UIKit
+[Ukraine]: https://en.wikipedia.org/wiki/Ukraine
+[UrbanAirsip]: https://en.wikipedia.org/wiki/UrbanAirsip
+[Validic]: https://en.wikipedia.org/wiki/Validic
+[Visualization]: https://en.wikipedia.org/wiki/Visualization
+[water microbiology]: https://en.wikipedia.org/wiki/water_microbiology
+[Windows]: https://en.wikipedia.org/wiki/Windows
+[Word2Vec]: https://en.wikipedia.org/wiki/Word2Vec
+[XCTests]: https://en.wikipedia.org/wiki/XCTests
+[xml]: https://en.wikipedia.org/wiki/xml
+
+
+
