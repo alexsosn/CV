@@ -13,9 +13,9 @@
 ## Experience
 ### [iOS] Developer, [Gigaset Communications](http://www.gigaset.com/de_DE/home.html) (Germany), R&D office at Wrocław, Poland
 * April 2015 – Present
-* Front-end mobile applications for Gigaset hardware (smart house, [DECT] phones). Test automation, bluetooth.
+* Front-end mobile applications for Gigaset hardware \([smart house](http://gigaset-elements.com/en/), [DECT] phones\). Test automation, bluetooth.
 Integration with custom proprietary Bluetooth LE services.
-* **Core technologies:** [Objective-C], [Python], [JavaScript], [Scrum], [Agile], [Canban], [TDD].
+* **Core technologies:** [Objective-C], [Python], [JavaScript], [Scrum], [Agile], [Kanban], [TDD].
 
 ### [iOS] Developer, [Ciklum Interactive Solutions](http://www.ciklum.com/), [Dnipropetrovsk], [Ukraine]
 February 2014 – April 2015 
@@ -23,7 +23,7 @@ Healthcare application for [Babylon Partners](www.babylonhealth.com) (London)
 * [Machine learning] system prototyping ([Python]/[R]/[OpenCV]).
 * Custom algorithm for heart rate detection via camera.
 * Development of the system for user motion recognition. Our algorithm accuracy is over 80% with possibility to add custom motion types. iPhone's default accuracy is ~ 55%.
-* Data visualization with [R].
+* [Data visualization] with [R].
 * [REST] [API] client and wearable devices integration.
 Research.
 * Technical documentation development.
@@ -37,7 +37,7 @@ Research.
 
 ### Teacher, Secondary school, [Dnipropetrovsk], 2010-2012
 * [Biology] and [chemistry] teacher in 5 – 10 grades.
-* **Skills gained:** [pedagogy], [psychology], [public speaking], [chem. demonstrations].
+* **Skills gained:** [pedagogy], [psychology], [public speaking], [scientific demonstrations].
 
 ### Engineer, [Dnipropetrovsk National University], Research Institute of [Biology], [Dnipropetrovsk], April 2010 – June 2010 
 * [Data analysis]. Skills gained: [MS Excel], [MS Access].
@@ -45,7 +45,7 @@ Research.
 
 ### Junior Laboratory Assistant, [Dnipropetrovsk National University], Department of Biology, Aquarium, [Dnipropetrovsk], October 2008 – January 2009 
 * Caring for aquatic organisms.
-* Skills gained: [positive mood], [self motivation], [proactivity], [care for animals], [laboratory analysis] skills.
+* Skills gained: [positive mood], [self motivation], [proactivity], [fishkeeping], [crocodilekeeping], [laboratory analysis] skills.
 
 ## Education
 ### Master of Science, [Biology], [Dnipropetrovsk National University], 2009-2010 
@@ -61,7 +61,7 @@ With distinction. [GPA]: [A].
 |English |Professional knowledge|
 |Ukrainian|Native speaker|
 |Russian|Native speaker|
-|Polish, German, Latin, Ancient Greek|I studied these languages at some point of my life.|
+|Polish, German, Latin, [Ancient Greek]|I studied these languages at some point of my life.|
 
 ## Technical Skills
 ### Programming Languages
@@ -105,22 +105,22 @@ With distinction. [GPA]: [A].
 
 ### Interesting Staff
 * [Machine Learning]
-* [Data Science]
+* [Data science]
 * Core competencies: [R], [Python], [MongoDB], [Apache Spark], [MapReduce], [time series], [statistics].
 * [NLP]: [Word2Vec], [sentiment analysis], [NLTK], [tm package]\(text mining\), [bag of words], [stemming], [corpuses], [tokenizers]... 
-* [Data Mining]: 
+* [Data mining]: 
 	* [Classification]
 		* decision trees, Random Forest, SVM, Naive Bayes, e1071
 	* [Regression]
 		* linear regression, logistic regression, 
-	* [Clusterization]
+	* [Cluster analysis]
 		* kNN, hierarchical clustering, 
 	* [Quality metrics]
 		* AUC (caTools), ROCR (ROC graphs, sensitivity/specificity curves)...
 	* [Linear] and [integer optimization] \([MS Excel]/[Open office]\) 
-* [Digital Signal Processing]: [Face detection in video], [Motion types recognition], 
-* [Data Visualization]: [cloud of words], [heatmaps], [mosaic plots], [ggplot2], [RcolorBrewer], [maps], [igraph]
-* Data sources: [twitter API], [xml], [sql], [html], [csv], [JSON], [BSON] \([MongoDB]\), [spatial], [bioinformatics formats], ...
+* [Digital signal processing]: [Face detection in video], [Motion types recognition], 
+* [Data visualization]: [word clouds], [heatmaps], [mosaic plots], [ggplot2], [RcolorBrewer], [maps], [igraph]
+* Data sources: [twitter API], [xml], [sql], [html], [csv], [JSON], [BSON] \([MongoDB]\), [spatial], bioinformatics formats, ...
 
 ### Bioinformatic Tools
 * [PAUP]
@@ -130,7 +130,7 @@ With distinction. [GPA]: [A].
 * [UGENE]
 * [MEGA]5/6
 * [Cytoscape]
-* [Bioconductors]
+* [Bioconductor]
 * [BLAST]
 * [PSI-BLAST]
 * [HMMER]
@@ -155,18 +155,15 @@ With distinction. [GPA]: [A].
 * Release to [HockeyApp]
 * **Technologies:** [Bluetooth LE], [CoreBluetooth], [GATT], [Kanban], [HockeyApp]
 
-### [Smart House] project
+### [Smart House](http://gigaset-elements.com/en/) project
 * Technologies: [KIF], [UIAutomation], [Appium], [Jira], [Confluence], [Scrum]
 
-### Mobile health system.
+### [Mobile health](http://www.babylonhealth.com/) system.
 “This is a virtual health service in your pocket. With an easy appointment and records system, leading clinicians and state of the art personal health monitoring capabilities, babylon is simply your own virtual health service in your pocket. It is the first organization of its kind to be registered with Care Quality Commission (CQC) and have designated body status from NHS England.”
 * Responsibility:
-* Core [iOS] application development.
+* Core [iOS application](https://itunes.apple.com/gb/app/babylon-health/id858558101) development.
 
-* Technologies:  [CorePlot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTests], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [openCV], [machine learning].
-
-* https://itunes.apple.com/gb/app/babylon-health/id858558101
-* http://www.babylonhealth.com/
+* Technologies:  [Core Plot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTests], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [openCV], [machine learning].
 
 
 ### Football Couch Simulator Mobile Game
@@ -262,66 +259,64 @@ Technologies: [RestKit], [UIKit]
 [A]: https://en.wikipedia.org/wiki/Education_in_Ukraine#Marks
 [Acceptance testing]: https://en.wikipedia.org/wiki/Acceptance_testing#Acceptance_testing_in_extreme_programming
 [AFNetworking]: https://github.com/AFNetworking/AFNetworking
-[Agile]: https://en.wikipedia.org/wiki/Agile
-[Apache Spark]: https://en.wikipedia.org/wiki/Apache_Spark
+[Agile]: http://agilemanifesto.org/
+[Ancient Greek]: https://en.wikipedia.org/wiki/Koine_Greek
+[Apache Spark]: http://spark.apache.org/
 [API]: https://en.wikipedia.org/wiki/API
 [APNS]: https://en.wikipedia.org/wiki/APNS
 [Appium]: http://appium.io/
-<!---
-Checked
--->
-[Autolayouts]: https://en.wikipedia.org/wiki/Autolayouts
+[Autolayouts]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html
 [bag of words]: https://en.wikipedia.org/wiki/bag_of_words
-[BAM]: https://en.wikipedia.org/wiki/BAM
-[BDD]: https://en.wikipedia.org/wiki/BDD
+[BAM]: https://samtools.github.io/hts-specs/SAMv1.pdf
+[BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [Big O notation]: https://en.wikipedia.org/wiki/Big_O_notation
-[Bioconductors]: https://en.wikipedia.org/wiki/Bioconductors
-[bioinformatics formats]: https://en.wikipedia.org/wiki/bioinformatics_formats
+[Bioconductor]: http://bioconductor.org/
 [Biology]: https://en.wikipedia.org/wiki/Biology
 [BLAST]: https://en.wikipedia.org/wiki/BLAST
 [Bluetooth LE]: https://en.wikipedia.org/wiki/Bluetooth_LE
 [Bluetooth]: https://en.wikipedia.org/wiki/Bluetooth
-[Bowtie]: https://en.wikipedia.org/wiki/Bowtie
-[BSON]: https://en.wikipedia.org/wiki/BSON
-[C++]: https://en.wikipedia.org/wiki/C++
-[Canban]: https://en.wikipedia.org/wiki/Canban
-[card.io]: https://en.wikipedia.org/wiki/card.io
-[care for animals]: https://en.wikipedia.org/wiki/care_for_animals
-[chem. demonstrations]: https://en.wikipedia.org/wiki/chem._demonstrations
-[chemistry]: https://en.wikipedia.org/wiki/chemistry
-[Classification]: https://en.wikipedia.org/wiki/Classification
-[cloud of words]: https://en.wikipedia.org/wiki/cloud_of_words
-[ClustalW]: https://en.wikipedia.org/wiki/ClustalW
-[Clusterization]: https://en.wikipedia.org/wiki/Clusterization
-[CocoaPods]: https://en.wikipedia.org/wiki/CocoaPods
-[Confluence]: https://en.wikipedia.org/wiki/Confluence
-[CoreBluetooth]: https://en.wikipedia.org/wiki/CoreBluetooth
-[CoreData]: https://en.wikipedia.org/wiki/CoreData
-[CoreGraphics]: https://en.wikipedia.org/wiki/CoreGraphics
-[CoreLocation]: https://en.wikipedia.org/wiki/CoreLocation
-[CoreMotion]: https://en.wikipedia.org/wiki/CoreMotion
-[CorePlot]: https://en.wikipedia.org/wiki/CorePlot
-[corpuses]: https://en.wikipedia.org/wiki/corpuses
-[Crashalitics]: https://en.wikipedia.org/wiki/Crashalitics
-[csv]: https://en.wikipedia.org/wiki/csv
-[Cytoscape]: https://en.wikipedia.org/wiki/Cytoscape
+[Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
+[BSON]: http://bsonspec.org/
+[C++]: https://isocpp.org/
+[card.io]: https://www.card.io/
+[crocodilekeeping]: http://lrm.nt.gov.au/__data/assets/pdf_file/0015/11454/guide_for_keeping_crocs2.pdf
+[chemistry]: https://en.wikipedia.org/wiki/Chemistry
+[Classification]: https://en.wikipedia.org/wiki/Statistical_classification
+[ClustalW]: http://www.clustal.org/omega/
+[Cluster analysis]: https://en.wikipedia.org/wiki/Cluster_analysis
+[CocoaPods]: https://cocoapods.org/
+[Confluence]: https://www.atlassian.com/software/confluence/
+[CoreBluetooth]: https://developer.apple.com/library/ios/documentation/CoreBluetooth/Reference/CoreBluetooth_Framework/index.html
+[CoreData]: https://en.wikipedia.org/wiki/Core_Data
+[CoreGraphics]: https://en.wikipedia.org/wiki/Quartz_%28graphics_layer%29
+[CoreLocation]: https://en.wikipedia.org/wiki/IOS_SDK#Core_Location
+[CoreMotion]: https://developer.apple.com/library/ios/documentation/CoreMotion/Reference/CoreMotion_Reference/index.html
+[Core Plot]: https://github.com/core-plot/core-plot
+[corpuses]: https://en.wikipedia.org/wiki/Corpus_linguistics
+[Crashalitics]: https://try.crashlytics.com/
+[csv]: https://en.wikipedia.org/wiki/Comma-separated_values
+[Cytoscape]: http://www.cytoscape.org/
 [Data analysis]: https://en.wikipedia.org/wiki/Data_analysis
-[Data Mining]: https://en.wikipedia.org/wiki/Data_Mining
-[Data Science]: https://en.wikipedia.org/wiki/Data_Science
-[Data Visualization]: https://en.wikipedia.org/wiki/Data_Visualization
-[DECT]: https://en.wikipedia.org/wiki/DECT
+[Data mining]: https://en.wikipedia.org/wiki/Data_mining
+[Data science]: https://en.wikipedia.org/wiki/Data_science
+[Data visualization]: https://en.wikipedia.org/wiki/Data_visualization
+[DECT]: https://en.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications
 [Design Patterns]: https://en.wikipedia.org/wiki/Design_Patterns
-[Digital Signal Processing]: https://en.wikipedia.org/wiki/Digital_Signal_Processing
-[Dnipropetrovsk National University]: https://en.wikipedia.org/wiki/Dnipropetrovsk_National_University
+[Digital signal processing]: https://en.wikipedia.org/wiki/Digital_signal_processing
+[Dnipropetrovsk National University]: https://en.wikipedia.org/wiki/Oles_Honchar_Dnipropetrovsk_National_University
 [Dnipropetrovsk]: https://en.wikipedia.org/wiki/Dnipropetrovsk
-[Dropbox SDK]: https://en.wikipedia.org/wiki/Dropbox_SDK
-[DSP]: https://en.wikipedia.org/wiki/DSP
-[Ensembl genome browser]: https://en.wikipedia.org/wiki/Ensembl_genome_browser
-[Face detection in video]: https://en.wikipedia.org/wiki/Face_detection_in_video
+[Dropbox SDK]: https://www.dropbox.com/developers/core/sdks/ios
+[DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
+[Ensembl genome browser]: http://www.ensembl.org/index.html
+[Face detection in video]: https://en.wikipedia.org/wiki/Face_detection
 [Facebook]: https://en.wikipedia.org/wiki/Facebook
 [FASTA]: https://en.wikipedia.org/wiki/FASTA
-[FASTAQ]: https://en.wikipedia.org/wiki/FASTAQ
-[Flurry]: https://en.wikipedia.org/wiki/Flurry
+[FASTAQ]: https://en.wikipedia.org/wiki/FASTQ_format
+[fishkeeping]: https://en.wikipedia.org/wiki/Fishkeeping
+[Flurry]: http://www.flurry.com/
+<!---
+Validated
+-->
 [Foundation]: https://en.wikipedia.org/wiki/Foundation
 [Functional programming]: https://en.wikipedia.org/wiki/Functional_programming
 [GATT]: https://en.wikipedia.org/wiki/GATT
@@ -403,11 +398,12 @@ Checked
 [Quality metrics]: https://en.wikipedia.org/wiki/Quality_metrics
 [R]: https://en.wikipedia.org/wiki/R_%28programming_language%29
 [RcolorBrewer]: https://en.wikipedia.org/wiki/RcolorBrewer
-[Regression]: https://en.wikipedia.org/wiki/Regression
+[Regression]: https://en.wikipedia.org/wiki/Regression_analysis
 [Relational Algebra]: https://en.wikipedia.org/wiki/Relational_Algebra
 [REST]: https://en.wikipedia.org/wiki/REST
 [RestKit]: https://en.wikipedia.org/wiki/RestKit
-[SAM]: https://en.wikipedia.org/wiki/SAM
+[SAM]: https://samtools.github.io/hts-specs/SAMv1.pdf
+[scientific demonstrations]: https://en.wikipedia.org/wiki/List_of_scientific_demonstrations#Chemistry
 [Scrum]: https://en.wikipedia.org/wiki/Scrum
 [self motivation]: https://en.wikipedia.org/wiki/self_motivation
 [sentiment analysis]: https://en.wikipedia.org/wiki/sentiment_analysis
@@ -440,6 +436,7 @@ Checked
 [water microbiology]: https://en.wikipedia.org/wiki/water_microbiology
 [Windows]: https://en.wikipedia.org/wiki/Windows
 [Word2Vec]: https://en.wikipedia.org/wiki/Word2Vec
+[word clouds]: https://en.wikipedia.org/wiki/Tag_cloud
 [XCTests]: https://en.wikipedia.org/wiki/XCTests
 [xml]: https://en.wikipedia.org/wiki/xml
 
