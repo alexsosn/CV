@@ -146,85 +146,91 @@ With distinction. [GPA]: [A].
 * [XCode], [IPython], [RStudio], [PyCharm]
 
 ## Projects
-### MobileDock project
-* **Responsibility**
-* Release to [HockeyApp]
-* **Technologies:** [Bluetooth LE], [CoreBluetooth], [Kanban], [HockeyApp]
+### [MobileDock](http://blog.gigaset.com/gigaset-mobiledock/)
+* **Role:**
+	* Core app development: integration with server side and custom hardware via [Bluetooth LE].
+	* Localization.
+	* Releases to [HockeyApp]
+* **Technologies:** [Bluetooth LE], [CoreBluetooth], [Kanban], [HockeyApp], [ReactiveCocoa], [Swift]
 
-### [Gigaset Elements](http://gigaset-elements.com/en/) project
-* Technologies: [KIF], [UIAutomation], [Appium], [Jira], [Confluence], [Scrum]
+### [Gigaset Elements](http://gigaset-elements.com/en/)
+Smart house.
+* **Role:**
+	* [Test automation]
+* **Technologies:** [KIF], [UIAutomation], [Appium], [Jira], [Confluence], [Scrum]
 
 ### [Mobile health](http://www.babylonhealth.com/) system.
 “This is a virtual health service in your pocket. With an easy appointment and records system, leading clinicians and state of the art personal health monitoring capabilities, babylon is simply your own virtual health service in your pocket. It is the first organization of its kind to be registered with Care Quality Commission (CQC) and have designated body status from NHS England.”
-* Responsibility:
-* Core [iOS application](https://itunes.apple.com/gb/app/babylon-health/id858558101) development.
-
-* Technologies:  [Core Plot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTest], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [OpenCV], [Machine learning].
-
+* **Role:**
+	* Core [iOS application](https://itunes.apple.com/gb/app/babylon-health/id858558101) development.
+	* RESTful service integration.
+	* Research and development of custom motion activity recognition algorithms.
+	* Unit tests
+	* Documentation development
+* **Technologies:**  [Core Plot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTest], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [OpenCV], [Machine learning].
 
 ### Football Couch Simulator Mobile Game
-* Technologies: [UIKit], [Foundation], [REST].
-* Role: 
-* Reimplementation of Titanium application in native [iOS] SDK.
-* Integration of the client application with [REST] API.
-* UI layout implementation.
-* Data persistence implementation.
+* **Role:** 
+	* Reimplementation of Titanium application in native [iOS] SDK.
+	* Integration of the client application with [REST] API.
+	* UI layout implementation.
+	* Data persistence implementation.
+* **Technologies:** [UIKit], [Foundation], [REST].
 
 ### Mobile eStore Engine
-* Customizable engine for fast creation of internet store applications.
-* Technologies: [UIKit], [Foundation], [REST], [MediaPlayer Framework], [StoreKit], [Flurry].
-* Role:
-* UI implementation.
-* [Facebook], [Twitter], [Pinterest], [Google+] APIs integration.
-* [In-App Purchase].
-* [Push notifications].
-* Audio and video player with custom interface implementation.
-* Contribution to [REST] API design.
-* Appstore publication process.
+Customizable engine for fast creation of internet store applications.
+* **Role:**
+	* UI implementation.
+	* [Facebook], [Twitter], [Pinterest], [Google+] APIs integration.
+	* [In-App Purchase].
+	* [Push notifications].
+	* Audio and video player with custom interface implementation.
+	* Contribution to [REST] API design.
+	* Appstore publication process.
+* **Technologies:** [UIKit], [Foundation], [REST], [MediaPlayer Framework], [StoreKit], [Flurry].
 
 ### Mobile Resume App
-* Create your app on the go
-* Role:
-* New UI design and iPad version implementing.
-* Dropbox integration.
-* iCloud synchronization integration.
-* LinkedIn API integration.
-* Technologies: [iCloud], [Dropbox SDK], [LinkedIn API], [CoreData], [UIKit].
+Create your resume on the go.
+* **Role:**
+	* New UI design and iPad version implementing.
+	* Dropbox integration.
+	* iCloud synchronization integration.
+	* LinkedIn API integration.
+* **Technologies:** [iCloud], [Dropbox SDK], [LinkedIn API], [CoreData], [UIKit].
 
 ### Taxi Booking Application
-* Role:
-* Optical recognition of credit card numbers integration
-* UI implementation.
-* Technologies: [card.io] SDK, [UIKit].
+* **Role:**
+	* Optical recognition of credit card numbers integration
+	* UI implementation.
+* **Technologies:** [card.io] SDK, [UIKit].
 
 ### Diabetes Management Application
-Role:
-Custom controls and calculators for diabetes management implementation.
-Technologies: [RestKit], [UIKit]
+* **Role:**
+	* Custom controls and calculators for diabetes management implementation.
+* **Technologies:** [RestKit], [UIKit]
 
 ### Medical Devices Promo App
-* internal iPad app for medical staff:
-* Role:
-* Implementation of new database structure and CMS-app interactions.
-* App localization.
-* Interacting with third party notification providers.
-* [TestFlight], [Google Analitics] integration.
-
-* Technologies: [Google Analitics], [UrbanAirsip], [TestFlight] SDK, [Perl] and [Python] scripting, [SQLite].
+Internal iPad app for medical staff.
+* **Role:**
+	* Implementation of new database structure and CMS-app interactions.
+	* App localization.
+	* Interacting with third party notification providers.
+	* [TestFlight], [Google Analitics] integration.
+* **Technologies:** [Google Analitics], [UrbanAirsip], [TestFlight] SDK, [Perl] and [Python] scripting, [SQLite].
 
 ### Laser Eye Surgery Promo App
-* internal iPad app for medical staff training and promotion:
-* Role: 
-* Laser eye surgery simulations implementation.
-* Custom UI implementation.
-* Technologies: [UIKit].
+Internal iPad app for medical staff training and promotion:
+* **Role:**
+	* Laser eye surgery simulations implementation.
+	* Custom UI implementation.
+* **Technologies:** [UIKit].
 
 ### Facilities 
-* internal app for biotech corporation:
-* Role: 
-* Offline google-like maps implementation.
-* Video player integration.
-* Technologies: [UIKit].
+Internal app for biotech corporation.
+* **Role:**
+	* Offline google-like maps implementation.
+	* Video player integration.
+* **Technologies:** [UIKit].
 
 ## Online courses finished with statements of accomplishment 
 
@@ -430,6 +436,6 @@ Technologies: [RestKit], [UIKit]
 [XCode]: https://en.wikipedia.org/wiki/Xcode
 [XCTest]: https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/Introduction/Introduction.html
 [XML]: https://en.wikipedia.org/wiki/XML
-
+[ReactiveCocoa]: https://github.com/ReactiveCocoa/ReactiveCocoa
 
 
