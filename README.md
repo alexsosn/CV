@@ -1,6 +1,6 @@
 <a href="http://gitprint.com/alexsosn/CV/blob/master/README.md"> Download as PDF </a>
 
-# Oleksander Sosnovshchenko
+# Oleksandr Sosnovshchenko
 
 **I'm programmer && biologist**
 
@@ -13,9 +13,9 @@
 ## Experience
 ### [iOS] Developer, [Gigaset Communications](http://www.gigaset.com/de_DE/home.html) (Germany), R&D office at Wrocław, Poland
 * April 2015 – Present
-* Front-end mobile applications for Gigaset hardware \([smart house](http://gigaset-elements.com/en/), [DECT] phones\). Test automation, bluetooth.
+* Front-end mobile applications for Gigaset smart house platform - [Gigaset Elements](http://gigaset-elements.com/en/) and Gigaset [MobileDock](http://blog.gigaset.com/gigaset-mobiledock/).
 Integration with custom proprietary Bluetooth LE services.
-* **Core technologies:** [Objective-C], [Python], [JavaScript], [Scrum], [Agile], [Kanban], [TDD].
+* **Core technologies:** [Objective-C], [Python], [JavaScript], [Scrum], [Agile], [Kanban], [TDD], [Test automation], [Bluetooth LE].
 
 ### [iOS] Developer, [Ciklum Interactive Solutions](http://www.ciklum.com/), [Dnipropetrovsk], [Ukraine]
 February 2014 – April 2015 
@@ -41,11 +41,11 @@ Research.
 
 ### Engineer, [Dnipropetrovsk National University], Research Institute of [Biology], [Dnipropetrovsk], April 2010 – June 2010 
 * [Data analysis]. Skills gained: [MS Excel], [MS Access].
-* Subjects: water quality monitoring, [hydrochemistry], [water microbiology].
+* Subjects: [water quality] monitoring, [bacteriological water analysis].
 
 ### Junior Laboratory Assistant, [Dnipropetrovsk National University], Department of Biology, Aquarium, [Dnipropetrovsk], October 2008 – January 2009 
 * Caring for aquatic organisms.
-* Skills gained: [positive mood], [self motivation], [proactivity], [fishkeeping], [crocodilekeeping], [laboratory analysis] skills.
+* Skills gained: [positive mood], [self motivation], [proactivity], [fishkeeping], [crocodilekeeping].
 
 ## Education
 ### Master of Science, [Biology], [Dnipropetrovsk National University], 2009-2010 
@@ -70,7 +70,7 @@ With distinction. [GPA]: [A].
 * [Python]
 * [R]
 * [Java]
-* [shell] scripting
+* [Bash] scripting
 * [Matlab], [Octave], [Haskell], [C++] \(basics\)
 
 ### Paradigms: 
@@ -90,21 +90,11 @@ With distinction. [GPA]: [A].
 
 ### Operating Systems
 * [OS X]
-* [Linux]
+* [Linux] \([Ubuntu]/[Fedora]\)
 * [Windows]
 
-### Other Tools
-* [LLVM] stack
-* [Git]
-* [SVN]
-* [Jira], [Confluence]
-* [MS Excel]
-* [MS Access]
-* [SQL]
-* [MongoDB]
-
-### Interesting Staff
-* [Machine Learning]
+### Data Science
+* [Machine learning]
 * [Data science]
 * Core competencies: [R], [Python], [MongoDB], [Apache Spark], [MapReduce], [time series], [statistics].
 * [NLP]: [Word2Vec], [sentiment analysis], [NLTK], [tm package]\(text mining\), [bag of words], [stemming], [corpuses], [tokenizers]... 
@@ -115,12 +105,12 @@ With distinction. [GPA]: [A].
 		* linear regression, logistic regression, 
 	* [Cluster analysis]
 		* kNN, hierarchical clustering, 
-	* [Quality metrics]
+	* Evaluation metrics
 		* AUC (caTools), ROCR (ROC graphs, sensitivity/specificity curves)...
 	* [Linear] and [integer optimization] \([MS Excel]/[Open office]\) 
-* [Digital signal processing]: [Face detection in video], [Motion types recognition], 
+* [Digital signal processing]: [face detection in video], [physical activity recognition], 
 * [Data visualization]: [word clouds], [heatmaps], [mosaic plots], [ggplot2], [RcolorBrewer], [maps], [igraph]
-* Data sources: [twitter API], [xml], [sql], [html], [csv], [JSON], [BSON] \([MongoDB]\), [spatial], bioinformatics formats, ...
+* Data sources: [twitter API], [XML], [SQL], [HTML], [CSV], [JSON], [BSON] \([MongoDB]\), [spatial], bioinformatics formats, ...
 
 ### Bioinformatic Tools
 * [PAUP]
@@ -132,7 +122,6 @@ With distinction. [GPA]: [A].
 * [Cytoscape]
 * [Bioconductor]
 * [BLAST]
-* [PSI-BLAST]
 * [HMMER]
 * [ClustalW]
 * [MUSCLE]
@@ -149,13 +138,20 @@ With distinction. [GPA]: [A].
 * [PDB]
 * [NEXUS]
 
+### Other Tools
+* [LLVM] stack
+* [Git], [SVN]
+* [Jira], [Confluence]
+* [MS Excel], [MS Access]
+* [XCode], [IPython], [RStudio], [PyCharm]
+
 ## Projects
-### [Bluetooth] device project
+### MobileDock project
 * **Responsibility**
 * Release to [HockeyApp]
-* **Technologies:** [Bluetooth LE], [CoreBluetooth], [GATT], [Kanban], [HockeyApp]
+* **Technologies:** [Bluetooth LE], [CoreBluetooth], [Kanban], [HockeyApp]
 
-### [Smart House](http://gigaset-elements.com/en/) project
+### [Gigaset Elements](http://gigaset-elements.com/en/) project
 * Technologies: [KIF], [UIAutomation], [Appium], [Jira], [Confluence], [Scrum]
 
 ### [Mobile health](http://www.babylonhealth.com/) system.
@@ -163,7 +159,7 @@ With distinction. [GPA]: [A].
 * Responsibility:
 * Core [iOS application](https://itunes.apple.com/gb/app/babylon-health/id858558101) development.
 
-* Technologies:  [Core Plot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTests], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [openCV], [machine learning].
+* Technologies:  [Core Plot], [HealthKit], [Validic], [CoreLocation], [CoreMotion], [CoreGraphics], [CoreData], [APNS], [AFNetworking], [HTTPS], [Autolayouts], [XCTest], [Kiwi], [REST], [TestFlight], [Crashalitics], [Jira], [Jenkins], [GitHub], [CocoaPods], [R], [Python], [OpenCV], [Machine learning].
 
 
 ### Football Couch Simulator Mobile Game
@@ -180,10 +176,11 @@ With distinction. [GPA]: [A].
 * Role:
 * UI implementation.
 * [Facebook], [Twitter], [Pinterest], [Google+] APIs integration.
-* [In-app purchases].
-* [Push-notifications].
+* [In-App Purchase].
+* [Push notifications].
 * Audio and video player with custom interface implementation.
 * Contribution to [REST] API design.
+* Appstore publication process.
 
 ### Mobile Resume App
 * Create your app on the go
@@ -211,7 +208,7 @@ Technologies: [RestKit], [UIKit]
 * Implementation of new database structure and CMS-app interactions.
 * App localization.
 * Interacting with third party notification providers.
-* [Testflight], [Google Analitics] integration.
+* [TestFlight], [Google Analitics] integration.
 
 * Technologies: [Google Analitics], [UrbanAirsip], [TestFlight] SDK, [Perl] and [Python] scripting, [SQLite].
 
@@ -266,8 +263,10 @@ Technologies: [RestKit], [UIKit]
 [APNS]: https://en.wikipedia.org/wiki/APNS
 [Appium]: http://appium.io/
 [Autolayouts]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html
+[bacteriological water analysis]: https://en.wikipedia.org/wiki/Bacteriological_water_analysis
 [bag of words]: https://en.wikipedia.org/wiki/bag_of_words
 [BAM]: https://samtools.github.io/hts-specs/SAMv1.pdf
+[Bash]: https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
 [BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [Big O notation]: https://en.wikipedia.org/wiki/Big_O_notation
 [Bioconductor]: http://bioconductor.org/
@@ -279,22 +278,22 @@ Technologies: [RestKit], [UIKit]
 [BSON]: http://bsonspec.org/
 [C++]: https://isocpp.org/
 [card.io]: https://www.card.io/
-[crocodilekeeping]: http://lrm.nt.gov.au/__data/assets/pdf_file/0015/11454/guide_for_keeping_crocs2.pdf
 [chemistry]: https://en.wikipedia.org/wiki/Chemistry
 [Classification]: https://en.wikipedia.org/wiki/Statistical_classification
 [ClustalW]: http://www.clustal.org/omega/
 [Cluster analysis]: https://en.wikipedia.org/wiki/Cluster_analysis
 [CocoaPods]: https://cocoapods.org/
 [Confluence]: https://www.atlassian.com/software/confluence/
+[Core Plot]: https://github.com/core-plot/core-plot
 [CoreBluetooth]: https://developer.apple.com/library/ios/documentation/CoreBluetooth/Reference/CoreBluetooth_Framework/index.html
 [CoreData]: https://en.wikipedia.org/wiki/Core_Data
 [CoreGraphics]: https://en.wikipedia.org/wiki/Quartz_%28graphics_layer%29
 [CoreLocation]: https://en.wikipedia.org/wiki/IOS_SDK#Core_Location
 [CoreMotion]: https://developer.apple.com/library/ios/documentation/CoreMotion/Reference/CoreMotion_Reference/index.html
-[Core Plot]: https://github.com/core-plot/core-plot
 [corpuses]: https://en.wikipedia.org/wiki/Corpus_linguistics
 [Crashalitics]: https://try.crashlytics.com/
-[csv]: https://en.wikipedia.org/wiki/Comma-separated_values
+[crocodilekeeping]: http://lrm.nt.gov.au/__data/assets/pdf_file/0015/11454/guide_for_keeping_crocs2.pdf
+[CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
 [Cytoscape]: http://www.cytoscape.org/
 [Data analysis]: https://en.wikipedia.org/wiki/Data_analysis
 [Data mining]: https://en.wikipedia.org/wiki/Data_mining
@@ -308,137 +307,129 @@ Technologies: [RestKit], [UIKit]
 [Dropbox SDK]: https://www.dropbox.com/developers/core/sdks/ios
 [DSP]: https://en.wikipedia.org/wiki/Digital_signal_processing
 [Ensembl genome browser]: http://www.ensembl.org/index.html
-[Face detection in video]: https://en.wikipedia.org/wiki/Face_detection
+[face detection in video]: https://en.wikipedia.org/wiki/Face_detection
 [Facebook]: https://en.wikipedia.org/wiki/Facebook
 [FASTA]: https://en.wikipedia.org/wiki/FASTA
 [FASTAQ]: https://en.wikipedia.org/wiki/FASTQ_format
+[Fedora]: https://getfedora.org/
 [fishkeeping]: https://en.wikipedia.org/wiki/Fishkeeping
 [Flurry]: http://www.flurry.com/
-<!---
-Validated
--->
-[Foundation]: https://en.wikipedia.org/wiki/Foundation
+[Foundation]: https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html
 [Functional programming]: https://en.wikipedia.org/wiki/Functional_programming
-[GATT]: https://en.wikipedia.org/wiki/GATT
-[ggplot2]: https://en.wikipedia.org/wiki/ggplot2
-[Git]: https://en.wikipedia.org/wiki/Git
+[ggplot2]: http://ggplot2.org/
+[Git]: https://git-scm.com/
 [GitHub]: https://en.wikipedia.org/wiki/GitHub
-[Google Analitics]: https://en.wikipedia.org/wiki/Google_Analitics
-[Google+]: https://en.wikipedia.org/wiki/Google+
+[Google Analitics]: http://www.google.com/analytics/
+[Google+]: https://developers.google.com/+/mobile/ios/
 [GPA]: https://en.wikipedia.org/wiki/GPA
-[Haskell]: https://en.wikipedia.org/wiki/Haskell
+[Haskell]: https://www.haskell.org/
 [HealthKit]: https://en.wikipedia.org/wiki/HealthKit
-[heatmaps]: https://en.wikipedia.org/wiki/heatmaps
-[HMMER]: https://en.wikipedia.org/wiki/HMMER
-[HockeyApp]: https://en.wikipedia.org/wiki/HockeyApp
-[html]: https://en.wikipedia.org/wiki/html
+[heatmaps]: https://en.wikipedia.org/wiki/Heat_map
+[HMMER]: http://hmmer.janelia.org/
+[HockeyApp]: http://hockeyapp.net/features/
+[HTML]: https://en.wikipedia.org/wiki/HTML
 [HTTPS]: https://en.wikipedia.org/wiki/HTTPS
-[hydrochemistry]: https://en.wikipedia.org/wiki/hydrochemistry
 [iCloud]: https://en.wikipedia.org/wiki/iCloud
-[igraph]: https://en.wikipedia.org/wiki/igraph
-[In-app purchases]: https://en.wikipedia.org/wiki/In-app_purchases
-[integer optimization]: https://en.wikipedia.org/wiki/integer_optimization
-[iOS]: https://en.wikipedia.org/wiki/iOS
-[Java]: https://en.wikipedia.org/wiki/Java
+[igraph]: http://igraph.org/redirect.html
+[In-App Purchase]: https://developer.apple.com/in-app-purchase/
+[integer optimization]: https://en.wikipedia.org/wiki/Integer_programming
+[iOS]: https://www.apple.com/ios/
+[IPython]: http://ipython.org/
+[Java]: http://www.oracle.com/technetwork/java/index.html
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
-[Jenkins]: https://en.wikipedia.org/wiki/Jenkins
-[Jira]: https://en.wikipedia.org/wiki/Jira
-[JSON]: https://en.wikipedia.org/wiki/JSON
+[Jenkins]: http://jenkins-ci.org/
+[Jira]: https://www.atlassian.com/software/jira
+[JSON]: http://json.org/
 [Kanban]: https://en.wikipedia.org/wiki/Kanban
-[KEGG Pathway]: https://en.wikipedia.org/wiki/KEGG_Pathway
-[KIF]: https://en.wikipedia.org/wiki/KIF
-[Kiwi]: https://en.wikipedia.org/wiki/Kiwi
-[laboratory analysis]: https://en.wikipedia.org/wiki/laboratory_analysis
-[Linear]: https://en.wikipedia.org/wiki/Linear
-[LinkedIn API]: https://en.wikipedia.org/wiki/LinkedIn_API
+[KEGG Pathway]: http://www.genome.jp/kegg/pathway.html
+[KIF]: https://github.com/kif-framework/KIF
+[Kiwi]: https://github.com/kiwi-bdd/Kiwi
+[Linear]: https://en.wikipedia.org/wiki/Linear_programming
+[LinkedIn API]: https://developer.linkedin.com/
 [Linux]: https://en.wikipedia.org/wiki/Linux
-[LLVM]: https://en.wikipedia.org/wiki/LLVM
+[LLVM]: http://llvm.org/
 [Machine learning]: https://en.wikipedia.org/wiki/Machine_learning
-[Machine Learning]: https://en.wikipedia.org/wiki/Machine_Learning
-[machine learning]: https://en.wikipedia.org/wiki/machine_learning
 [MapReduce]: https://en.wikipedia.org/wiki/MapReduce
-[maps]: https://en.wikipedia.org/wiki/maps
-[Matlab]: https://en.wikipedia.org/wiki/Matlab
-[MediaPlayer Framework]: https://en.wikipedia.org/wiki/MediaPlayer_Framework
+[maps]: http://rmaps.github.io/
+[Matlab]: http://www.mathworks.com/products/matlab/
+[MediaPlayer Framework]: https://developer.apple.com/library/ios/documentation/MediaPlayer/Reference/MediaPlayer_Framework/
 [MEGA]: http://megasoftware.net/
-[MEME]: https://en.wikipedia.org/wiki/MEME
-[MG-RAST]: https://en.wikipedia.org/wiki/MG-RAST
-[MongoDB]: https://en.wikipedia.org/wiki/MongoDB
-[mosaic plots]: https://en.wikipedia.org/wiki/mosaic_plots
-[Motion types recognition]: https://en.wikipedia.org/wiki/Motion_types_recognition
-[MrBayes]: https://en.wikipedia.org/wiki/MrBayes
-[MS Access]: https://en.wikipedia.org/wiki/MS_Access
-[MS Excel]: https://en.wikipedia.org/wiki/MS_Excel
-[MUSCLE]: https://en.wikipedia.org/wiki/MUSCLE
-[NEXUS]: https://en.wikipedia.org/wiki/NEXUS
-[NLP]: https://en.wikipedia.org/wiki/NLP
-[NLTK]: https://en.wikipedia.org/wiki/NLTK
+[MEME]: http://meme-suite.org/
+[MG-RAST]: http://metagenomics.anl.gov/
+[MongoDB]: https://www.mongodb.org/
+[mosaic plots]: https://en.wikipedia.org/wiki/Mosaic_plot
+[MrBayes]: http://mrbayes.sourceforge.net/
+[MS Access]: https://en.wikipedia.org/wiki/Microsoft_Access
+[MS Excel]: https://en.wikipedia.org/wiki/Microsoft_Excel
+[MUSCLE]: http://www.ebi.ac.uk/Tools/msa/muscle/
+[NEXUS]: https://en.wikipedia.org/wiki/Nexus_file
+[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
+[NLTK]: http://www.nltk.org/
 [Objective-C]: https://en.wikipedia.org/wiki/Objective-C
-[Octave]: https://en.wikipedia.org/wiki/Octave
-[OOP]: https://en.wikipedia.org/wiki/OOP
-[Open office]: https://en.wikipedia.org/wiki/Open_office
-[OpenCV]: https://en.wikipedia.org/wiki/OpenCV
-[openCV]: https://en.wikipedia.org/wiki/openCV
-[OS X]: https://en.wikipedia.org/wiki/OS_X
-[PAUP]: https://en.wikipedia.org/wiki/PAUP
-[PDB]: https://en.wikipedia.org/wiki/PDB
+[Octave]: https://gnu.org/software/octave/
+[OOP]: https://en.wikipedia.org/wiki/Object-oriented_programming
+[Open office]: https://en.wikipedia.org/wiki/OpenOffice.org
+[OpenCV]: http://opencv.org/
+[OS X]: http://www.apple.com/osx/
+[PAUP]: http://paup.csit.fsu.edu/
+[PDB]: http://www.rcsb.org/pdb/home/home.do
 [pedagogy]: https://en.wikipedia.org/wiki/pedagogy
-[Perl]: https://en.wikipedia.org/wiki/Perl
-[PHYLIP]: https://en.wikipedia.org/wiki/PHYLIP
-[Pinterest]: https://en.wikipedia.org/wiki/Pinterest
+[Perl]: https://www.perl.org/
+[PHYLIP]: http://evolution.genetics.washington.edu/phylip.html
+[physical activity recognition]: http://www.ncbi.nlm.nih.gov/pubmed/?term=%28%28%28smartphone%29+AND+activity%29+AND+recognition%29
+[Pinterest]: https://developers.pinterest.com/
 [positive mood]: https://en.wikipedia.org/wiki/positive_mood
 [proactivity]: https://en.wikipedia.org/wiki/proactivity
-[Prosite]: https://en.wikipedia.org/wiki/Prosite
-[PSI-BLAST]: https://en.wikipedia.org/wiki/PSI-BLAST
+[Prosite]: http://prosite.expasy.org/
 [psychology]: https://en.wikipedia.org/wiki/psychology
 [public speaking]: https://en.wikipedia.org/wiki/public_speaking
-[Push-notifications]: https://en.wikipedia.org/wiki/Push-notifications
-[PyMOL]: https://en.wikipedia.org/wiki/PyMOL
-[Python]: https://en.wikipedia.org/wiki/Python
-[Quality metrics]: https://en.wikipedia.org/wiki/Quality_metrics
-[R]: https://en.wikipedia.org/wiki/R_%28programming_language%29
-[RcolorBrewer]: https://en.wikipedia.org/wiki/RcolorBrewer
+[Push notifications]: https://en.wikipedia.org/wiki/Apple_Push_Notification_Service
+[PyCharm]: https://www.jetbrains.com/pycharm/
+[PyMOL]: http://pymol.org/
+[Python]: https://www.python.org/
+[R]: https://www.r-project.org/
+[RcolorBrewer]: https://cran.r-project.org/web/packages/RColorBrewer/index.html
 [Regression]: https://en.wikipedia.org/wiki/Regression_analysis
-[Relational Algebra]: https://en.wikipedia.org/wiki/Relational_Algebra
-[REST]: https://en.wikipedia.org/wiki/REST
-[RestKit]: https://en.wikipedia.org/wiki/RestKit
+[Relational Algebra]: https://en.wikipedia.org/wiki/Relational_algebra
+[REST]: https://en.wikipedia.org/wiki/Representational_state_transfer
+[RestKit]: https://github.com/RestKit/RestKit
+[RStudio]: https://www.rstudio.com/
 [SAM]: https://samtools.github.io/hts-specs/SAMv1.pdf
 [scientific demonstrations]: https://en.wikipedia.org/wiki/List_of_scientific_demonstrations#Chemistry
-[Scrum]: https://en.wikipedia.org/wiki/Scrum
-[self motivation]: https://en.wikipedia.org/wiki/self_motivation
-[sentiment analysis]: https://en.wikipedia.org/wiki/sentiment_analysis
-[shell]: https://en.wikipedia.org/wiki/shell
-[Smart House]: https://en.wikipedia.org/wiki/Smart_House
-[spatial]: https://en.wikipedia.org/wiki/spatial
+[Scrum]: https://en.wikipedia.org/wiki/Scrum_%28software_development%29
+[self motivation]: https://en.wikipedia.org/wiki/Self-control
+[sentiment analysis]: https://en.wikipedia.org/wiki/Sentiment_analysis
+[spatial]: https://en.wikipedia.org/wiki/Spatial_database
 [SQL]: https://en.wikipedia.org/wiki/SQL
-[sql]: https://en.wikipedia.org/wiki/sql
-[SQLite]: https://en.wikipedia.org/wiki/SQLite
-[statistics]: https://en.wikipedia.org/wiki/statistics
-[stemming]: https://en.wikipedia.org/wiki/stemming
-[StoreKit]: https://en.wikipedia.org/wiki/StoreKit
-[SVN]: https://en.wikipedia.org/wiki/SVN
-[Swift]: https://en.wikipedia.org/wiki/Swift
-[TDD]: https://en.wikipedia.org/wiki/TDD
-[TestFlight]: https://en.wikipedia.org/wiki/TestFlight
-[Testflight]: https://en.wikipedia.org/wiki/Testflight
-[time series]: https://en.wikipedia.org/wiki/time_series
-[tm package]: https://en.wikipedia.org/wiki/tm_package
-[tokenizers]: https://en.wikipedia.org/wiki/tokenizers
-[twitter API]: https://en.wikipedia.org/wiki/twitter_API
-[Twitter]: https://en.wikipedia.org/wiki/Twitter
-[UGENE]: https://en.wikipedia.org/wiki/UGENE
-[UIAutomation]: https://en.wikipedia.org/wiki/UIAutomation
-[UIKit]: https://en.wikipedia.org/wiki/UIKit
+[SQLite]: https://www.sqlite.org/
+[statistics]: https://en.wikipedia.org/wiki/Statistics
+[stemming]: https://en.wikipedia.org/wiki/Stemming
+[StoreKit]: https://developer.apple.com/library/ios/documentation/StoreKit/Reference/StoreKit_Collection/
+[SVN]: https://subversion.apache.org/
+[Swift]: https://developer.apple.com/swift/
+[TDD]: https://en.wikipedia.org/wiki/Test-driven_development
+[Test automation]: https://en.wikipedia.org/wiki/Test_automation
+[TestFlight]: https://developer.apple.com/testflight/
+[time series]: https://en.wikipedia.org/wiki/Time_series
+[tm package]: https://cran.r-project.org/web/packages/tm/index.html
+[tokenizers]: https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization
+[twitter API]: https://dev.twitter.com/
+[Twitter]: https://dev.twitter.com/
+[Ubuntu]: http://www.ubuntu.com/
+[UGENE]: http://ugene.net/en/
+[UIAutomation]: https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/UsingtheAutomationInstrument/UsingtheAutomationInstrument.html
+[UIKit]: https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 [Ukraine]: https://en.wikipedia.org/wiki/Ukraine
-[UrbanAirsip]: https://en.wikipedia.org/wiki/UrbanAirsip
-[Validic]: https://en.wikipedia.org/wiki/Validic
-[Visualization]: https://en.wikipedia.org/wiki/Visualization
-[water microbiology]: https://en.wikipedia.org/wiki/water_microbiology
-[Windows]: https://en.wikipedia.org/wiki/Windows
-[Word2Vec]: https://en.wikipedia.org/wiki/Word2Vec
+[UrbanAirsip]: http://urbanairship.com/
+[Validic]: http://validic.com/
+[Visualization]: https://en.wikipedia.org/wiki/Data_visualization
+[water quality]: https://en.wikipedia.org/wiki/Water_quality
+[Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
 [word clouds]: https://en.wikipedia.org/wiki/Tag_cloud
-[XCTests]: https://en.wikipedia.org/wiki/XCTests
-[xml]: https://en.wikipedia.org/wiki/xml
+[Word2Vec]: https://code.google.com/p/word2vec/
+[XCode]: https://en.wikipedia.org/wiki/Xcode
+[XCTest]: https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/testing_with_xcode/Introduction/Introduction.html
+[XML]: https://en.wikipedia.org/wiki/XML
 
 
 
