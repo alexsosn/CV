@@ -1,6 +1,10 @@
 # Oleksandr Sosnovshchenko
 
-**I'm programmer && biologist**
+About myself: programmer and biologist.
+4 years in software development and 7 years in biology. 
+
+Interests: Machine Learning, Data Science, AI, NLP, Bioinformatics.
+Fields: Mobile, Healthcare, Biotech, Education, R&D.
 
 ## Contact Information
 - Lviv, Ukraine
